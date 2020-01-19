@@ -1,3 +1,5 @@
+The code is based on Maximilian Schwarzmüller course in Udemy with some changes and code styling improvements.
+
 # ReactJS BurgerShop
 
 ReactJS app that helps you make and order a burger with ingredients and their quantity of your choice. 
